@@ -1,24 +1,13 @@
-# README
+# Manhattan Maker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-- This is an example that I will use to continue understanding ROR
 
-Things you may want to cover:
+Here are some things that I will include:
+* Dependency Injection
+* Integration Testing
+* Unit testing
+* Manhattans
 
-* Ruby version
+This uses Ruby v 2.5.1 and all the latest Rails goodness
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Eventually maybe I'll make a front end for it
